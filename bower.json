@@ -1,0 +1,10 @@
+{
+  "name": "areacodes",
+  "description": "areacodes!",
+  "license": "BSD-3-Clause",
+  "main": "./lib/areacodes.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/k0bl/node-areacodes.git"
+  },
+}
